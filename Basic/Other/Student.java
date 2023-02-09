@@ -1,4 +1,4 @@
-package Basic;
+package Basic.Other;
 
 //Java Program to illustrate how to define a class and fields  
 //Defining a Student class.  

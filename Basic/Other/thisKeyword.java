@@ -1,4 +1,4 @@
-package Basic;
+package Basic.Other;
 
 public class thisKeyword {
     int x;

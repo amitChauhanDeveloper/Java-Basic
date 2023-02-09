@@ -1,4 +1,4 @@
-package Basic;
+package Basic.Other;
 
 //Java Program to demonstrate the working of a banking-system
 //where we deposit and withdraw amount from our account.
