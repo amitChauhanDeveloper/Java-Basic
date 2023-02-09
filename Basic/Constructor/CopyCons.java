@@ -1,4 +1,4 @@
-package Basic;
+package Basic.Constructor;
 
 //Java program to initialize the values from one object to another object.
 class CopyCons {

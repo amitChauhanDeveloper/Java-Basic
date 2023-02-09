@@ -1,4 +1,4 @@
-package Basic;
+package Basic.Constructor;
 
 //Java Program to create and call a default constructor
 

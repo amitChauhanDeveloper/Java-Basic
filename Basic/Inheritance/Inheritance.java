@@ -1,4 +1,4 @@
-package Basic;
+package Basic.Inheritance;
 
 /* class Employee{  
     float salary=40000;  
@@ -21,5 +21,6 @@ package Basic;
         SubClass p=new SubClass();  
       System.out.println("Programmer salary is:"+p.salary);  
       System.out.println("Bonus of Programmer is:"+p.bonus);  
+      System.out.println();
    }  
    }  

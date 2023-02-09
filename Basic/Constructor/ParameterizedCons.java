@@ -1,4 +1,4 @@
-package Basic;
+package Basic.Constructor;
 
 //Java Program to demonstrate the use of the parameterized constructor.
 public class ParameterizedCons {
