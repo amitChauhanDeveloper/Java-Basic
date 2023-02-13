@@ -28,7 +28,7 @@ class Emp extends Person {
 class Real_Use_Super_Keyword {
 
   public static void main(String[] args) {
-    Emp e1 = new Emp(1, "ankit", 45000f);
+    Emp e1 = new Emp(1, "amit", 5000);
     e1.display();
   }
 }
