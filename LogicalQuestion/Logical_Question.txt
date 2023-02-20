@@ -1,0 +1,18 @@
+The programming paradigm that is mostly based on formal logic is referred to as Logical Programming. 
+The logical Java programs are mostly asked by the interviewers like Fibonacci series, Armstrong Number, 
+Prime Number, and Perfect Number, etc.The Logical programs are designed by using certain logic and can 
+say 70 percent code of the program is a set of logic.
+
+There can be the following logical programs which are mostly asked:
+
+List of logical programs in Java
+Fibonacci Series.
+Armstrong Number.
+Perfect number.
+Prime number.
+Factorial of a number.
+Reverse a string.
+Reverse a number.
+Palindrome number
+Palindrome string.
+Find duplicate characters in a string.
