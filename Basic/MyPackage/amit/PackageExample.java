@@ -1,4 +1,4 @@
-package MyPackage.amit;
+package Basic.MyPackage.amit;
 
 public class PackageExample{
 
